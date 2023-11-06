@@ -120,7 +120,6 @@ while True:
     if board[mouse_position[0]][mouse_position[1]] == cheese_symbol:
         move_counter += 1
 
-# Add AI for the cat, power-ups for the mouse, and further game logic as per your requirements.
 
 
 
